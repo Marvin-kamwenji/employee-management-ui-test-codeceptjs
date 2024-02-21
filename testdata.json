@@ -1,0 +1,45 @@
+[
+    {
+        "firstName": "Bethel",
+        "lastName": "KInoti",
+        "department": "QA department",
+        "designation": "Quality Analyst"
+    },
+    {
+        "firstName": "Meshack",
+        "lastName": "Karori",
+        "department": "Software Engineering department",
+        "designation": "Software Engineer"
+    },
+    {
+        "firstName": "Rodgers",
+        "lastName": "Ouko",
+        "department": "Hospitality",
+        "designation": "Chef"
+    },
+    {
+        "firstName": "Ian",
+        "lastName": "Wairimu",
+        "department": "Management department",
+        "designation": "Project Manager"
+    },
+    {
+        "firstName": "Maryann",
+        "lastName": "Makena",
+        "department": "Sales Department",
+        "designation": "Sales representative"
+    },
+    {
+        "firstName": "Velda",
+        "lastName": "Karimi",
+        "department": "Sofware Engineering",
+        "designation": "Software Engineer"
+    },
+    {
+        "firstName": "Sharon",
+        "lastName": "Nyaguthii",
+        "department": "Management Engineering",
+        "designation": "Project Manager"
+    }
+
+]
